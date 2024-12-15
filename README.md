@@ -1,0 +1,1 @@
+This repository contains a simple Java program demonstrating a common off-by-one error in array iteration. The error leads to an IndexOutOfBoundsException when the program attempts to access an element beyond the array's bounds.  The solution corrects the loop condition to prevent the exception.
